@@ -1,11 +1,11 @@
 {
-  "_PageTitle-bIN1KEP6.js": {
-    "file": "assets/PageTitle-bIN1KEP6.js",
+  "_PageTitle-Dr12xWYd.js": {
+    "file": "assets/PageTitle-Dr12xWYd.js",
     "name": "PageTitle",
     "imports": [
       "_web-BPZ8wtEZ.js",
       "_index-DaaYFcil.js",
-      "_region-CUmuD6T2.js",
+      "_region-CpO8_1cj.js",
       "_slot-AqX-MzD6.js"
     ]
   },
@@ -16,12 +16,12 @@
       "_web-BPZ8wtEZ.js"
     ]
   },
-  "_preload-helper-CM3UJVvY.js": {
-    "file": "assets/preload-helper-CM3UJVvY.js",
+  "_preload-helper-C9euoRAu.js": {
+    "file": "assets/preload-helper-C9euoRAu.js",
     "name": "preload-helper"
   },
-  "_region-CUmuD6T2.js": {
-    "file": "assets/region-CUmuD6T2.js",
+  "_region-CpO8_1cj.js": {
+    "file": "assets/region-CpO8_1cj.js",
     "name": "region"
   },
   "_slot-AqX-MzD6.js": {
@@ -36,30 +36,30 @@
     "name": "web"
   },
   "src/components/SlotThumbnail.tsx": {
-    "file": "assets/SlotThumbnail-vvOOgZIs.js",
+    "file": "assets/SlotThumbnail-Bcojeirm.js",
     "name": "SlotThumbnail",
     "src": "src/components/SlotThumbnail.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_web-BPZ8wtEZ.js",
       "_slot-AqX-MzD6.js",
-      "_PageTitle-bIN1KEP6.js",
+      "_PageTitle-Dr12xWYd.js",
       "_index-DaaYFcil.js",
-      "_region-CUmuD6T2.js"
+      "_region-CpO8_1cj.js"
     ]
   },
   "src/routes/studiobrowser/[region]/(region).tsx?pick=default&pick=$css": {
-    "file": "assets/(region)-CaCSUbIz.js",
+    "file": "assets/(region)-DtQE_Qhx.js",
     "name": "(region)",
     "src": "src/routes/studiobrowser/[region]/(region).tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_web-BPZ8wtEZ.js",
-      "_region-CUmuD6T2.js",
+      "_region-CpO8_1cj.js",
       "_slot-AqX-MzD6.js",
-      "_PageTitle-bIN1KEP6.js",
-      "_preload-helper-CM3UJVvY.js",
+      "_PageTitle-Dr12xWYd.js",
+      "_preload-helper-C9euoRAu.js",
       "_index-DaaYFcil.js"
     ],
     "dynamicImports": [
@@ -70,16 +70,16 @@
     ]
   },
   "src/routes/studiobrowser/[region]/slots/[slot].tsx?pick=default&pick=$css": {
-    "file": "assets/_slot_-UF6qJkyf.js",
+    "file": "assets/_slot_-DXJ9zMmX.js",
     "name": "_slot_",
     "src": "src/routes/studiobrowser/[region]/slots/[slot].tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_web-BPZ8wtEZ.js",
-      "_PageTitle-bIN1KEP6.js",
+      "_PageTitle-Dr12xWYd.js",
       "src/components/SlotThumbnail.tsx",
-      "_region-CUmuD6T2.js",
+      "_region-CpO8_1cj.js",
       "_slot-AqX-MzD6.js",
       "_index-DaaYFcil.js"
     ]
@@ -96,28 +96,28 @@
     ]
   },
   "src/routes/studiobrowser/index.tsx?pick=default&pick=$css": {
-    "file": "assets/index-CMRgdrmU.js",
+    "file": "assets/index-DKxnwMs7.js",
     "name": "index",
     "src": "src/routes/studiobrowser/index.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_web-BPZ8wtEZ.js",
-      "_region-CUmuD6T2.js"
+      "_region-CpO8_1cj.js"
     ],
     "css": [
       "assets/index-qsYQwpRV.css"
     ]
   },
   "virtual:$vinxi/handler/client": {
-    "file": "assets/client-CXuGfju4.js",
+    "file": "assets/client-BTn3g5QN.js",
     "name": "client",
     "src": "virtual:$vinxi/handler/client",
     "isEntry": true,
     "imports": [
       "_web-BPZ8wtEZ.js",
-      "_preload-helper-CM3UJVvY.js",
-      "_region-CUmuD6T2.js",
+      "_preload-helper-C9euoRAu.js",
+      "_region-CpO8_1cj.js",
       "_slot-AqX-MzD6.js",
       "_index-DaaYFcil.js"
     ],
