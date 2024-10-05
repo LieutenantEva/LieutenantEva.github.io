@@ -96,7 +96,7 @@
     ]
   },
   "src/routes/studiobrowser/index.tsx?pick=default&pick=$css": {
-    "file": "assets/index-DKxnwMs7.js",
+    "file": "assets/index-Dib10rgs.js",
     "name": "index",
     "src": "src/routes/studiobrowser/index.tsx?pick=default&pick=$css",
     "isEntry": true,
@@ -110,7 +110,7 @@
     ]
   },
   "virtual:$vinxi/handler/client": {
-    "file": "assets/client-BTn3g5QN.js",
+    "file": "assets/client-Bc_OCP4d.js",
     "name": "client",
     "src": "virtual:$vinxi/handler/client",
     "isEntry": true,
