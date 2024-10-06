@@ -1,66 +1,77 @@
 {
-  "_PageTitle-Deow6t4n.js": {
-    "file": "assets/PageTitle-Deow6t4n.js",
+  "_PageTitle-RxKxD5eA.js": {
+    "file": "assets/PageTitle-RxKxD5eA.js",
     "name": "PageTitle",
     "imports": [
-      "_web-BPZ8wtEZ.js",
-      "_index-DaaYFcil.js",
-      "_region-CpO8_1cj.js",
-      "_slot-2HESPlSs.js"
+      "_web-CPDknjYr.js",
+      "_index-CJnFJ0Ai.js",
+      "_region-D77atls7.js"
     ]
   },
-  "_index-DaaYFcil.js": {
-    "file": "assets/index-DaaYFcil.js",
+  "_components-C5y5YUGo.js": {
+    "file": "assets/components-C5y5YUGo.js",
+    "name": "components",
+    "imports": [
+      "_web-CPDknjYr.js",
+      "_region-D77atls7.js"
+    ]
+  },
+  "_index-CJnFJ0Ai.js": {
+    "file": "assets/index-CJnFJ0Ai.js",
     "name": "index",
     "imports": [
-      "_web-BPZ8wtEZ.js"
+      "_web-CPDknjYr.js"
     ]
   },
   "_preload-helper-C9euoRAu.js": {
     "file": "assets/preload-helper-C9euoRAu.js",
     "name": "preload-helper"
   },
-  "_region-CpO8_1cj.js": {
-    "file": "assets/region-CpO8_1cj.js",
-    "name": "region"
-  },
-  "_slot-2HESPlSs.js": {
-    "file": "assets/slot-2HESPlSs.js",
-    "name": "slot",
+  "_region-D77atls7.js": {
+    "file": "assets/region-D77atls7.js",
+    "name": "region",
     "imports": [
-      "_web-BPZ8wtEZ.js"
+      "_web-CPDknjYr.js"
     ]
   },
-  "_web-BPZ8wtEZ.js": {
-    "file": "assets/web-BPZ8wtEZ.js",
+  "_slot-BQtVvhpY.js": {
+    "file": "assets/slot-BQtVvhpY.js",
+    "name": "slot",
+    "imports": [
+      "_web-CPDknjYr.js",
+      "_region-D77atls7.js"
+    ]
+  },
+  "_web-CPDknjYr.js": {
+    "file": "assets/web-CPDknjYr.js",
     "name": "web"
   },
   "src/components/SlotThumbnail.tsx": {
-    "file": "assets/SlotThumbnail-CqjErsxX.js",
+    "file": "assets/SlotThumbnail-Ce_B9BfB.js",
     "name": "SlotThumbnail",
     "src": "src/components/SlotThumbnail.tsx",
     "isDynamicEntry": true,
     "imports": [
-      "_web-BPZ8wtEZ.js",
-      "_slot-2HESPlSs.js",
-      "_PageTitle-Deow6t4n.js",
-      "_index-DaaYFcil.js",
-      "_region-CpO8_1cj.js"
+      "_web-CPDknjYr.js",
+      "_slot-BQtVvhpY.js",
+      "_PageTitle-RxKxD5eA.js",
+      "_region-D77atls7.js",
+      "_index-CJnFJ0Ai.js"
     ]
   },
   "src/routes/studiobrowser/[region]/(region).tsx?pick=default&pick=$css": {
-    "file": "assets/(region)-C1EnRs9b.js",
+    "file": "assets/(region)-CSsvAVVV.js",
     "name": "(region)",
     "src": "src/routes/studiobrowser/[region]/(region).tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_web-BPZ8wtEZ.js",
-      "_region-CpO8_1cj.js",
-      "_slot-2HESPlSs.js",
-      "_PageTitle-Deow6t4n.js",
+      "_web-CPDknjYr.js",
+      "_region-D77atls7.js",
+      "_slot-BQtVvhpY.js",
+      "_PageTitle-RxKxD5eA.js",
       "_preload-helper-C9euoRAu.js",
-      "_index-DaaYFcil.js"
+      "_index-CJnFJ0Ai.js"
     ],
     "dynamicImports": [
       "src/components/SlotThumbnail.tsx"
@@ -70,59 +81,62 @@
     ]
   },
   "src/routes/studiobrowser/[region]/slots/[slot].tsx?pick=default&pick=$css": {
-    "file": "assets/_slot_-BtsXFYAl.js",
+    "file": "assets/_slot_-D_yzM1hW.js",
     "name": "_slot_",
     "src": "src/routes/studiobrowser/[region]/slots/[slot].tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_web-BPZ8wtEZ.js",
-      "_PageTitle-Deow6t4n.js",
+      "_web-CPDknjYr.js",
+      "_PageTitle-RxKxD5eA.js",
       "src/components/SlotThumbnail.tsx",
-      "_region-CpO8_1cj.js",
-      "_slot-2HESPlSs.js",
-      "_index-DaaYFcil.js"
+      "_region-D77atls7.js",
+      "_slot-BQtVvhpY.js",
+      "_components-C5y5YUGo.js",
+      "_index-CJnFJ0Ai.js"
     ],
     "css": [
       "assets/_slot_-DfRVEfO8.css"
     ]
   },
   "src/routes/studiobrowser/about.tsx?pick=default&pick=$css": {
-    "file": "assets/about-oHqDvi6P.js",
+    "file": "assets/about-C8mkLqOw.js",
     "name": "about",
     "src": "src/routes/studiobrowser/about.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_web-BPZ8wtEZ.js",
-      "_index-DaaYFcil.js"
+      "_web-CPDknjYr.js",
+      "_index-CJnFJ0Ai.js"
     ]
   },
   "src/routes/studiobrowser/index.tsx?pick=default&pick=$css": {
-    "file": "assets/index-Dib10rgs.js",
+    "file": "assets/index-IuGVsH0v.js",
     "name": "index",
     "src": "src/routes/studiobrowser/index.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_web-BPZ8wtEZ.js",
-      "_region-CpO8_1cj.js"
+      "_web-CPDknjYr.js",
+      "_region-D77atls7.js",
+      "_components-C5y5YUGo.js"
     ],
     "css": [
       "assets/index-qsYQwpRV.css"
     ]
   },
   "virtual:$vinxi/handler/client": {
-    "file": "assets/client-CP7UU2uh.js",
+    "file": "assets/client-B9Ejj49c.js",
     "name": "client",
     "src": "virtual:$vinxi/handler/client",
     "isEntry": true,
     "imports": [
-      "_web-BPZ8wtEZ.js",
+      "_web-CPDknjYr.js",
       "_preload-helper-C9euoRAu.js",
-      "_region-CpO8_1cj.js",
-      "_slot-2HESPlSs.js",
-      "_index-DaaYFcil.js"
+      "_region-D77atls7.js",
+      "_slot-BQtVvhpY.js",
+      "_index-CJnFJ0Ai.js",
+      "_components-C5y5YUGo.js"
     ],
     "dynamicImports": [
       "src/routes/studiobrowser/about.tsx?pick=default&pick=$css",
