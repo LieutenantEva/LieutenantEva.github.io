@@ -70,7 +70,7 @@
     ]
   },
   "src/routes/studiobrowser/[region]/slots/[slot].tsx?pick=default&pick=$css": {
-    "file": "assets/_slot_-HRRdIj0F.js",
+    "file": "assets/_slot_-BtsXFYAl.js",
     "name": "_slot_",
     "src": "src/routes/studiobrowser/[region]/slots/[slot].tsx?pick=default&pick=$css",
     "isEntry": true,
@@ -84,7 +84,7 @@
       "_index-DaaYFcil.js"
     ],
     "css": [
-      "assets/_slot_-8wRTpMU5.css"
+      "assets/_slot_-DfRVEfO8.css"
     ]
   },
   "src/routes/studiobrowser/about.tsx?pick=default&pick=$css": {
@@ -113,7 +113,7 @@
     ]
   },
   "virtual:$vinxi/handler/client": {
-    "file": "assets/client-D_tL_obz.js",
+    "file": "assets/client-Burq2jGN.js",
     "name": "client",
     "src": "virtual:$vinxi/handler/client",
     "isEntry": true,
