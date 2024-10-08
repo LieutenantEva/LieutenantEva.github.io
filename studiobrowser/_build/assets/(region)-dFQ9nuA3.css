@@ -1,0 +1,1 @@
+.slots-vscroll{display:flex;align-items:stretch;gap:0 10px;padding-bottom:10px;overflow-y:hidden;overflow-x:scroll}.slots-vscroll::-webkit-scrollbar{height:12px}.slots-vscroll::-webkit-scrollbar-thumb,.slots-vscroll::-webkit-scrollbar-track{border-radius:92px}.slots-vscroll::-webkit-scrollbar-thumb{background:#c00424}.slots-vscroll::-webkit-scrollbar-track{background:#edf2f4}

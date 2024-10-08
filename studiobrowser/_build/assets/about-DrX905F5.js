@@ -1,1 +1,0 @@
-import{j as r,b as a,t as o}from"./web-DtRvhTJ7.js";import{T as i}from"./index-CLWHGj--.js";var m=o("<main><h1>About");function s(){return(()=>{var t=m(),e=t.firstChild;return r(t,a(i,{children:"About"}),e),t})()}export{s as default};
