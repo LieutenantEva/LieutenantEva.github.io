@@ -118,7 +118,7 @@
     ]
   },
   "src/routes/[region]/list/[list].tsx?pick=default&pick=$css": {
-    "file": "assets/_list_--5oNBuji.js",
+    "file": "assets/_list_-DdiGvIkf.js",
     "name": "_list_",
     "src": "src/routes/[region]/list/[list].tsx?pick=default&pick=$css",
     "isEntry": true,
@@ -134,7 +134,7 @@
       "_preload-helper-C9euoRAu.js"
     ],
     "css": [
-      "assets/_list_-DAfCF1a4.css"
+      "assets/_list_-D-PXQsdx.css"
     ]
   },
   "src/routes/[region]/slots/[slot].tsx?pick=default&pick=$css": {
@@ -183,7 +183,7 @@
     ]
   },
   "virtual:$vinxi/handler/client": {
-    "file": "assets/client-DZxvi0PX.js",
+    "file": "assets/client-DkjsKr92.js",
     "name": "client",
     "src": "virtual:$vinxi/handler/client",
     "isEntry": true,
